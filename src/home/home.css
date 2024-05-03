@@ -1,0 +1,267 @@
+.main {
+    display: flex;
+    height: calc(100vh - 140px);
+    background: linear-gradient(135deg, #13072E, #3F2182);
+    padding-left: 20px;
+    margin: 0 40px;
+    margin-bottom: 40px;
+    border-radius: 40px;
+    overflow: auto;
+
+}
+
+.main::-webkit-scrollbar {
+    display: none;
+}
+
+.IMGarea img {
+    margin-top: 40px;
+    border-radius: 28% 72% 70% 30% / 73% 48% 52% 27%;
+    width: 800px;
+    height: 700px;
+    object-fit: cover;
+    opacity: 0.8;
+}
+
+
+.IMGarea div:hover {
+    opacity: 1;
+}
+
+.TEXTAREA-main {
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+}
+
+.HASHtag {
+    display: flex;
+    font-size: 22px;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 50px;
+    background-color: #B3AAFF;
+    color: #13072E;
+    border-radius: 12px;
+    margin-top: 44px;
+    margin-left: 30px;
+
+}
+
+.TEXTAREA-main h1 {
+    font-size: 105px;
+    width: 780px;
+    margin: 0;
+}
+
+.TEXTAREA-main p {
+    width: 700px;
+}
+
+.newP {
+    font-size: 25px;
+    width: 780px;
+}
+
+#btnin_TEXTMAIN {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 60px;
+    font-size: 17px;
+    border-radius: 18px;
+    margin-left: 100px;
+    transition: 0.25s ease;
+    cursor: pointer;
+
+}
+
+#btnin_TEXTMAIN img {
+    background-color: #ffffff;
+    filter: invert(100%);
+    width: 40px;
+    border-radius: 100%;
+    cursor: pointer;
+
+}
+
+#btnin_TEXTMAIN:hover {
+    background-color: #ffae00;
+    transform: scale(1.02);
+    opacity: 1;
+}
+
+@media only screen and (max-width: 1700px) {
+
+    .IMGarea {
+        margin-top: 70px;
+    }
+
+    .IMGarea img {
+        width: 700px;
+        height: 600px;
+    }
+}
+
+@media only screen and (max-width: 1575px) {
+
+    .IMGarea {
+        margin-top: 70px;
+    }
+
+    .IMGarea img {
+        width: 600px;
+        height: 500px;
+    }
+
+    .TEXTAREA-main h1 {
+        font-size: 95px;
+        width: 680px;
+    }
+
+    .TEXTAREA-main p {
+        width: 680px;
+    }
+
+    .newP {
+        font-size: 25px;
+        width: 600px;
+    }
+}
+
+@media only screen and (max-width: 1375px) {
+
+    .IMGarea {
+        margin-top: 70px;
+    }
+
+    .IMGarea img {
+        width: 500px;
+        height: 400px;
+    }
+
+    #btnin_TEXTMAIN {
+        width: 450px;
+        height: 80px;
+        font-size: 25px;
+        margin-left: 400px;
+        margin-top: 80px;
+    }
+}
+
+@media only screen and (max-width: 1375px) {
+    .TEXTAREA-main h1 {
+        font-size: 70px;
+        width: 580px;
+        margin: 0;
+    }
+
+    .TEXTAREA-main p {
+        font-size: 26px;
+        width: 580px;
+    }
+
+    .newP {
+        display: none;
+    }
+
+
+}
+
+@media only screen and (max-width: 1220px) {
+    .TEXTAREA-main h1 {
+        font-size: 50px;
+        width: 380px;
+    }
+
+    .TEXTAREA-main p {
+        font-size: 26px;
+        width: 480px;
+    }
+
+    .IMGarea img {
+        width: 500px;
+        height: 400px;
+    }
+
+    #btnin_TEXTMAIN {
+        margin-left: 300px;
+
+    }
+
+
+}
+
+@media only screen and (max-width: 1055px) {
+    .HASHtag {
+        margin: 20px auto;
+    }
+
+    .TEXTAREA-main {
+        width: 100%;
+    }
+
+    .TEXTAREA-main h1 {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .TEXTAREA-main p {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+
+    }
+
+    .submit-TEXTAREA-main {
+        margin-top: 40px;
+        display: flex;
+        justify-content: center;
+    }
+
+    #btnin_TEXTMAIN {
+        margin: 0;
+    }
+
+    .IMGarea {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+
+    .TEXTAREA-main h1 {
+        font-size: 30px;
+    }
+
+    .TEXTAREA-main p {
+        margin: 18px auto;
+        max-width: 500px;
+        font-size: 18px;
+    }
+
+    .newP {
+        opacity: 0;
+    }
+
+    .submit-TEXTAREA-main {
+        margin: 0;
+    }
+
+    #btnin_TEXTMAIN {
+        width: 200px;
+        height: 50px;
+        font-size: 16px;
+    }
+
+    .IMGarea {
+        display: none;
+    }
+}

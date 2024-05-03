@@ -1,0 +1,49 @@
+.img-insideList,
+.name_of_img {
+    width: 160px;
+    height: 212px;
+    border-radius: 10px;
+    margin-top: 12px;
+}
+
+.name_of_img {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    color: #ff8800;
+    background-color: #0b0b0b70;
+    opacity: 0;
+    transition: 0.20s ease-in-out;
+}
+
+.name_of_img:hover {
+    opacity: 1;
+}
+
+.insidelist {
+    display: flex;
+    height: 212px;
+    width: 160px;
+    align-items: center;
+    position: relative;
+    margin: 12px 0;
+}
+
+
+.name_of_img:hover {
+    opacity: 1;
+}
+
+
+@media only screen and (max-width: 870px) {
+
+    .img-insideList,
+    .name_of_img {
+        margin-left: 25px;
+        width: 130px;
+        height: 152px;
+        border-radius: 12px;
+        object-fit: contain;
+    }
+}

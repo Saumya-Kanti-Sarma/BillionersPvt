@@ -1,0 +1,109 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 88px;
+    margin: 0 20px;
+}
+
+.logo-class {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-class img {
+    width: 30px;
+}
+
+.logo-class h1 {
+    margin: 0;
+}
+
+nav ul {
+    margin: 0;
+    padding-left: 0;
+    display: flex;
+    gap: 55px;
+}
+
+nav ul a {
+    margin: 0;
+    text-decoration: none;
+    font-size: 20px;
+    transition: 0.33s ease-in-out;
+    color: #FFF;
+}
+
+nav ul a:hover {
+    color: #FF8A00;
+}
+
+#navbutton {
+    display: flex;
+    justify-content: center;
+    gap: 22px;
+    padding-left: 22px;
+    padding-left: 18px;
+    align-items: center;
+    border-radius: 12px;
+    border: none;
+    width: 90px;
+    font-size: 14px;
+    height: 30px;
+    opacity: 0.8;
+    cursor: pointer;
+    transition: 0.13s ease-in-out;
+}
+
+#navbutton:hover {
+    opacity: 1;
+    transform: scale(1.045);
+}
+
+/* For Tablets */
+@media only screen and (max-width: 920px) {
+    nav {
+        height: 80px;
+        justify-content: space-between;
+    }
+
+    nav ul {
+        display: flex;
+        gap: 100px;
+    }
+
+    nav ul a {
+        font-size: 24px;
+    }
+
+    .btn {
+        display: none;
+    }
+}
+
+/* For smartphones */
+@media only screen and (max-width: 720px) {
+    nav {
+        height: 77px;
+        justify-content: center;
+    }
+
+    .logo-class img {
+        width: 45px;
+    }
+
+    .logo-class h1 {
+        font-size: 35px;
+    }
+
+    nav ul {
+        display: none;
+        /* Remove the navigation links */
+    }
+
+    #navbutton {
+        display: none;
+        /* Remove the button */
+    }
+}

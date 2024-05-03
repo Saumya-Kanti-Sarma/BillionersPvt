@@ -1,0 +1,1017 @@
+[
+    {
+        "countrues": {
+            "USA": 15,
+            "India": 3,
+            "France": 3,
+            "Russia": 7,
+            "China": 9,
+            "others": 13
+        }
+    },
+    {
+        "Bernard Arnault": {
+            "rank": 1,
+            "about": "Chairman and CEO of LVMH Moët Hennessy Louis Vuitton SE, a multinational luxury goods conglomerate.",
+            "nationality": "French",
+            "bornIn": "Roubaix, France",
+            "birthDate": "March 5, 1949",
+            "business": "LVMH Moët Hennessy Louis Vuitton SE",
+            "education": "École Polytechnique",
+            "networth": "$233 Billions",
+            "industry": "Fashion & Retail",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bernard_Arnault_%283%29_-_2017_%28cropped%29.jpg/220px-Bernard_Arnault_%283%29_-_2017_%28cropped%29.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Elon Musk": {
+            "rank": 2,
+            "about": "CEO of Tesla, SpaceX, Neuralink, and The Boring Company, among other ventures.",
+            "nationality": "American",
+            "bornIn": "Pretoria, South Africa",
+            "birthDate": "June 28, 1971",
+            "business": "Tesla, SpaceX, Neuralink, The Boring Company",
+            "education": "University of Pennsylvania",
+            "networth": "$195 Billions",
+            "industry": "Automotive",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg/220px-Elon_Musk_Colorado_2022_%28cropped2%29.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Jeff Bezos": {
+            "rank": 3,
+            "about": "Founder and former CEO of Amazon.com, the world's largest online retailer.",
+            "nationality": "American",
+            "bornIn": "Albuquerque, New Mexico, USA",
+            "birthDate": "January 12, 1964",
+            "business": "Amazon.com",
+            "education": "Princeton University",
+            "networth": "$194 Billions",
+            "industry": "Technology",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg/200px-Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Mark Zuckerberg": {
+            "rank": 4,
+            "about": "Co-founder and CEO of Meta Platforms, formerly known as Facebook.",
+            "nationality": "American",
+            "bornIn": "White Plains, New York, USA",
+            "birthDate": "May 14, 1984",
+            "business": "Meta Platforms (formerly Facebook)",
+            "education": "Harvard University",
+            "networth": "$177 Billions",
+            "industry": "Technology",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg/220px-Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Larry Ellison": {
+            "rank": 5,
+            "about": "Co-founder, executive chairman and CTO of Oracle Corporation, a multinational computer technology corporation.",
+            "nationality": "American",
+            "bornIn": "New York City, New York, USA",
+            "birthDate": "August 17, 1944",
+            "business": "Oracle Corporation",
+            "education": "University of Chicago",
+            "networth": "$141 Billions",
+            "industry": "Technology",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Larry_Ellison_picture.png/220px-Larry_Ellison_picture.png",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Warren Buffett": {
+            "rank": 6,
+            "about": "Chairman and CEO of Berkshire Hathaway, an American multinational conglomerate holding company.",
+            "nationality": "American",
+            "bornIn": "Omaha, Nebraska, USA",
+            "birthDate": "August 30, 1930",
+            "business": "Berkshire Hathaway",
+            "education": "University of Nebraska–Lincoln",
+            "networth": "$133 Billions",
+            "industry": "Finance & Investments",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg/220px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Bill Gates": {
+            "rank": 7,
+            "about": "Co-founder of Microsoft Corporation, a multinational technology corporation.",
+            "nationality": "American",
+            "bornIn": "Seattle, Washington, USA",
+            "birthDate": "October 28, 1955",
+            "business": "Microsoft Corporation",
+            "education": "Harvard University",
+            "networth": "$128 Billions",
+            "industry": "Technology",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bill_Gates_-_2023_-_P062021-967902_%28cropped%29.jpg/220px-Bill_Gates_-_2023_-_P062021-967902_%28cropped%29.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Steve Ballmer": {
+            "rank": 8,
+            "about": "Former CEO of Microsoft Corporation and current owner of the Los Angeles Clippers NBA team.",
+            "nationality": "American",
+            "bornIn": "Detroit, Michigan, USA",
+            "birthDate": "March 24, 1956",
+            "business": "Los Angeles Clippers, Microsoft Corporation (former)",
+            "education": "Harvard University",
+            "networth": "$121 Billions",
+            "industry": "Technology",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Steve_ballmer_2007_outdoors2-2.jpg/220px-Steve_ballmer_2007_outdoors2-2.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Mukesh Ambani": {
+            "rank": 9,
+            "about": "Chairman and largest shareholder of Reliance Industries Limited, a multinational conglomerate company.",
+            "nationality": "Indian",
+            "bornIn": "Aden, Yemen",
+            "birthDate": "April 19, 1957",
+            "business": "Reliance Industries Limited",
+            "education": "University of Mumbai",
+            "networth": "$116 Billions",
+            "industry": "Diversified",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mukesh_Ambani.jpg/200px-Mukesh_Ambani.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Larry Page": {
+            "rank": 10,
+            "about": "Co-founder of Google (now Alphabet Inc.), a multinational conglomerate.",
+            "nationality": "American",
+            "bornIn": "East Lansing, Michigan, USA",
+            "birthDate": "March 26, 1973",
+            "business": "Alphabet Inc. (formerly Google)",
+            "education": "Stanford University",
+            "networth": "$114 Billions",
+            "industry": "Technology",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg/220px-Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Sergey Brin": {
+            "rank": 11,
+            "about": "Co-founder of Google (now Alphabet Inc.), a multinational conglomerate.",
+            "nationality": "American",
+            "bornIn": "Moscow, Russian SFSR, Soviet Union",
+            "birthDate": "August 21, 1973",
+            "business": "Alphabet Inc. (formerly Google)",
+            "education": "Stanford University",
+            "networth": "$110 Billions",
+            "industry": "Technology",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sergey_Brin_Ted_2010_%28cropped%29.jpg/220px-Sergey_Brin_Ted_2010_%28cropped%29.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Michael Bloomberg": {
+            "rank": 12,
+            "about": "Founder and CEO of Bloomberg L.P., a global financial services, software, and mass media company.",
+            "nationality": "American",
+            "bornIn": "Boston, Massachusetts, USA",
+            "birthDate": "February 14, 1942",
+            "business": "Bloomberg L.P.",
+            "education": "Harvard University",
+            "networth": "$106 Billions",
+            "industry": "Finance & Investments",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mike_Bloomberg_Headshot.jpg/220px-Mike_Bloomberg_Headshot.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Amancio Ortega": {
+            "rank": 13,
+            "about": "Founder of Inditex, the world's largest fashion retailer, which includes brands like Zara, Pull&Bear, and Massimo Dutti.",
+            "nationality": "Spanish",
+            "bornIn": "Busdongo de Arbás, León, Spain",
+            "birthDate": "March 28, 1936",
+            "business": "Inditex (Zara, Pull&Bear, Massimo Dutti, etc.)",
+            "education": "N/A",
+            "networth": "$102 Billions",
+            "industry": "Fashion & Retail",
+            "socials": {
+                "image": "/images/default.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Carlos Slim Helu": {
+            "rank": 14,
+            "about": "Chairman and CEO of América Móvil, a Mexican telecommunications corporation.",
+            "nationality": "Mexican",
+            "bornIn": "Mexico City, Mexico",
+            "birthDate": "January 28, 1940",
+            "business": "América Móvil",
+            "education": "National Autonomous University of Mexico",
+            "networth": "$89 Billions",
+            "industry": "Telecommunications",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Carlos_Slim_%2845680472234%29_%28cropped%29.jpg/220px-Carlos_Slim_%2845680472234%29_%28cropped%29.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Francoise Bettencourt Meyers": {
+            "rank": 15,
+            "about": "Heiress and chairwoman of L'Oréal, the world's largest cosmetics company.",
+            "nationality": "French",
+            "bornIn": "Neuilly-sur-Seine, France",
+            "birthDate": "July 10, 1953",
+            "business": "L'Oréal",
+            "education": "University of Paris",
+            "networth": "$88 Billions",
+            "industry": "Fashion & Retail",
+            "socials": {
+                "image": "/images/default.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Michael Dell": {
+            "rank": 16,
+            "about": "Founder and CEO of Dell Technologies, a multinational technology company.",
+            "nationality": "American",
+            "bornIn": "Houston, Texas, USA",
+            "birthDate": "February 23, 1965",
+            "business": "Dell Technologies",
+            "education": "University of Texas at Austin",
+            "networth": "$75 Billions",
+            "industry": "Technology",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Michael_Dell_2010.jpg/220px-Michael_Dell_2010.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Gautam Adani": {
+            "rank": 17,
+            "about": "Chairman and founder of the Adani Group, a multinational conglomerate company based in India.",
+            "nationality": "Indian",
+            "bornIn": "Ratanpol, Ahmedabad, Gujarat, India",
+            "birthDate": "June 24, 1962",
+            "business": "Adani Group",
+            "education": "Gujarat University",
+            "networth": "$72 Billions",
+            "industry": "Diversified",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gautam_Adani.jpg/220px-Gautam_Adani.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Jim Walton": {
+            "rank": 18,
+            "about": "Son of Walmart founder Sam Walton and heir to the Walmart fortune.",
+            "nationality": "American",
+            "bornIn": "Newport, Arkansas, USA",
+            "birthDate": "June 7, 1948",
+            "business": "Walmart",
+            "education": "University of Arkansas",
+            "networth": "$71 Billions",
+            "industry": "Fashion & Retail",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jim_Walton_attends_shareholders_meeting.jpg/220px-Jim_Walton_attends_shareholders_meeting.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Rob Walton": {
+            "rank": 19,
+            "about": "Son of Walmart founder Sam Walton and heir to the Walmart fortune.",
+            "nationality": "American",
+            "bornIn": "Tulsa, Oklahoma, USA",
+            "birthDate": "October 28, 1944",
+            "business": "Walmart",
+            "education": "University of Arkansas",
+            "networth": "$70 Billions",
+            "industry": "Fashion & Retail",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/S._Robson_Walton_by_Gage_Skidmore.jpg/220px-S._Robson_Walton_by_Gage_Skidmore.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Jensen Huang": {
+            "rank": 20,
+            "about": "Co-founder and CEO of Nvidia, a multinational technology company.",
+            "nationality": "American",
+            "bornIn": "Taipei, Taiwan",
+            "birthDate": "February 17, 1963",
+            "business": "Nvidia",
+            "education": "Oregon State University",
+            "networth": "$68 Billions",
+            "industry": "Technology",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jensen_Huang_%28cropped%29.jpg/220px-Jensen_Huang_%28cropped%29.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Alice Walton": {
+            "rank": 21,
+            "about": "Daughter of Walmart founder Sam Walton and heir to the Walmart fortune.",
+            "nationality": "American",
+            "bornIn": "Newport, Arkansas, USA",
+            "birthDate": "October 7, 1949",
+            "business": "Walmart",
+            "education": "Trinity University (Texas)",
+            "networth": "$66 Billions",
+            "industry": "Fashion & Retail",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Alice_Walton_portrait_%28cropped%29.jpg/220px-Alice_Walton_portrait_%28cropped%29.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "David Thomson": {
+            "rank": 22,
+            "about": "Chairman of Thomson Reuters, a multinational mass media and information firm.",
+            "nationality": "Canadian",
+            "bornIn": "Toronto, Ontario, Canada",
+            "birthDate": "June 12, 1957",
+            "business": "Thomson Reuters",
+            "education": "Columbia University",
+            "networth": "$65 Billions",
+            "industry": "Media & Entertainment",
+            "socials": {
+                "image": "/images/default.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Julia Koch": {
+            "rank": 23,
+            "about": "Heiress to the Koch Industries fortune, one of the largest privately-owned companies in the United States.",
+            "nationality": "American",
+            "bornIn": "Indianapolis, Indiana, USA",
+            "birthDate": "April 12, 1962",
+            "business": "Koch Industries",
+            "education": "University of Central Arkansas",
+            "networth": "$64 Billions",
+            "industry": "Diversified",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Julia_Koch.jpg/220px-Julia_Koch.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Zhong Shanshan": {
+            "rank": 24,
+            "about": "Founder and chairman of Nongfu Spring, a leading beverage company, and owner of Beijing Wantai Biological Pharmacy, a pharmaceutical company.",
+            "nationality": "Chinese",
+            "bornIn": "China",
+            "birthDate": "December 1954",
+            "business": "Nongfu Spring, Beijing Wantai Biological Pharmacy",
+            "education": "N/A",
+            "networth": "$64 Billions",
+            "industry": "Food & Beverage, Pharmaceuticals",
+            "socials": {
+                "image": "/images/default.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Charles Koch": {
+            "rank": 25,
+            "about": "CEO and co-owner (with brother David Koch) of Koch Industries, one of the largest privately-owned companies in the United States.",
+            "nationality": "American",
+            "bornIn": "Wichita, Kansas, USA",
+            "birthDate": "November 1, 1935",
+            "business": "Koch Industries",
+            "education": "Massachusetts Institute of Technology",
+            "networth": "$62 Billions",
+            "industry": "Diversified",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Charles_Koch_portrait_%28cropped%29.jpg/220px-Charles_Koch_portrait_%28cropped%29.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Giovanni Ferrero": {
+            "rank": 26,
+            "about": "Executive chairman of Ferrero SpA, the Italian confectionery giant known for brands like Nutella, Tic Tac, and Ferrero Rocher.",
+            "nationality": "Italian",
+            "bornIn": "Dogliani, Piedmont, Italy",
+            "birthDate": "April 21, 1964",
+            "business": "Ferrero SpA",
+            "education": "N/A",
+            "networth": "$60 Billions",
+            "industry": "Food & Beverage",
+            "socials": {
+                "image": "",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Phil Knight": {
+            "rank": 27,
+            "about": "Co-founder and former chairman of Nike, Inc., one of the world's largest suppliers of athletic shoes and apparel.",
+            "nationality": "American",
+            "bornIn": "Portland, Oregon, USA",
+            "birthDate": "February 24, 1938",
+            "business": "Nike, Inc.",
+            "education": "Stanford University",
+            "networth": "$60 Billions",
+            "industry": "Fashion & Retail",
+            "socials": {
+                "image": "",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Colin Zheng Huang": {
+            "rank": 28,
+            "about": "Founder and CEO of Pinduoduo, one of China's largest e-commerce platforms.",
+            "nationality": "Chinese",
+            "bornIn": "Hangzhou, Zhejiang, China",
+            "birthDate": "November 1980",
+            "business": "Pinduoduo",
+            "education": "Zhejiang University",
+            "networth": "$59 Billions",
+            "industry": "Technology",
+            "socials": {
+                "image": "",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "François Pinault": {
+            "rank": 29,
+            "about": "Founder and owner of Kering, a French multinational luxury goods company, and the parent company of brands like Gucci, Yves Saint Laurent, and Balenciaga.",
+            "nationality": "French",
+            "bornIn": "Les Champs-Géraux, France",
+            "birthDate": "August 21, 1936",
+            "business": "Kering",
+            "education": "N/A",
+            "networth": "$58 Billions",
+            "industry": "Fashion & Retail",
+            "socials": {
+                "image": "",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Tadashi Yanai": {
+            "rank": 30,
+            "about": "Founder and president of Fast Retailing, the parent company of Uniqlo.",
+            "nationality": "Japanese",
+            "bornIn": "Yamaguchi Prefecture, Japan",
+            "birthDate": "February 7, 1949",
+            "business": "Fast Retailing (Uniqlo)",
+            "education": "Waseda University",
+            "networth": "$57 Billions",
+            "industry": "Fashion & Retail",
+            "socials": {
+                "image": "",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Len Blavatnik": {
+            "rank": 31,
+            "about": "Founder and chairman of Access Industries, a privately-held industrial group with investments in various industries including natural resources, chemicals, media, and telecommunications.",
+            "nationality": "American",
+            "bornIn": "Odesa, Ukraine",
+            "birthDate": "June 14, 1957",
+            "business": "Access Industries",
+            "education": "Moscow State University, Harvard Business School",
+            "networth": "$57 Billions",
+            "industry": "Diversified",
+            "socials": {
+                "image": "",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Yang Huiyan": {
+            "rank": 33,
+            "about": "Major shareholder of Country Garden Holdings, one of China's largest real estate developers.",
+            "nationality": "Chinese",
+            "bornIn": "Foshan, Guangdong, China",
+            "birthDate": "1981",
+            "business": "Country Garden Holdings",
+            "education": "Ohio State University",
+            "networth": "$56 Billions",
+            "industry": "Real Estate",
+            "socials": {
+                "image": "/images/default.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Zhong Huijuan": {
+            "rank": 34,
+            "about": "Chairwoman of Hansoh Pharmaceutical, one of China's largest pharmaceutical companies.",
+            "nationality": "Chinese",
+            "bornIn": "China",
+            "birthDate": "1961",
+            "business": "Hansoh Pharmaceutical",
+            "education": "N/A",
+            "networth": "$56 Billions",
+            "industry": "Pharmaceuticals",
+            "socials": {
+                "image": "/images/default.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Gennady Timchenko": {
+            "rank": 35,
+            "about": "Co-founder of Gunvor Group, one of the world's largest independent commodities trading houses.",
+            "nationality": "Russian",
+            "bornIn": "Leninakan, Armenian SSR, Soviet Union",
+            "birthDate": "November 9, 1952",
+            "business": "Gunvor Group",
+            "education": "N/A",
+            "networth": "$56 Billions",
+            "industry": "Energy",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gennady_Timchenko%2C_2018.jpg/220px-Gennady_Timchenko%2C_2018.jpg",
+                "linkdin": "",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Ratan Tata": {
+            "rank": 0,
+            "about": "Chairman Emeritus of Tata Sons, India's largest conglomerate.",
+            "bornIn": "Bombay, Bombay Presidency, British India",
+            "birthDate": "December 28, 1937",
+            "business": "Tata Sons",
+            "education": "Cornell University",
+            "networth": "$1 B",
+            "industry": "Diversified",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/35._ISC-Symposium-Ratan_N._Tata_in_der_Pause-HSGN_028-01812.JPG/220px-35._ISC-Symposium-Ratan_N._Tata_in_der_Pause-HSGN_028-01812.JPG",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        },
+        "Azim Premji": {
+            "rank": 0,
+            "about": "Former chairman of Wipro Limited, one of India's largest IT services company.",
+            "bornIn": "Bombay, Bombay Presidency, British India",
+            "birthDate": "July 24, 1945",
+            "business": "Wipro Limited",
+            "education": "Stanford University",
+            "networth": "$7.1 B",
+            "industry": "Technology",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Azim_H._Premji_World_Economic_Forum_2013.jpg/220px-Azim_H._Premji_World_Economic_Forum_2013.jpg",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        },
+        "Shiv Nadar": {
+            "rank": 0,
+            "about": "Founder and Chairman of HCL Technologies, a leading global IT services company.",
+            "bornIn": "Moolaipozhi Village, Tamil Nadu, India",
+            "birthDate": "July 14, 1945",
+            "business": "HCL Technologies",
+            "education": "PSG College of Technology",
+            "networth": "$26.8 B",
+            "industry": "Technology",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Shiv_Nadar.png/220px-Shiv_Nadar.png",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        },
+        "Lakshmi Mittal": {
+            "rank": 0,
+            "about": "Chairman and CEO of ArcelorMittal, the world's largest steelmaking company.",
+            "bornIn": "Sadulpur, Rajasthan, India",
+            "birthDate": "June 15, 1950",
+            "business": "ArcelorMittal",
+            "education": "St. Xavier's College, Kolkata",
+            "networth": "$16.5 B",
+            "industry": "Manufacturing",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lakshmi_Mittal_LM.jpg/220px-Lakshmi_Mittal_LM.jpg",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        },
+        "Kumar Mangalam Birla": {
+            "rank": 0,
+            "about": "Chairman of the Aditya Birla Group, a multinational conglomerate based in India.",
+            "bornIn": "India",
+            "birthDate": "June 14, 1967",
+            "business": "Aditya Birla Group",
+            "education": "University of Mumbai",
+            "networth": "$10.1 B",
+            "industry": "Diversified",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kumar_Mangalam_Birla.jpg/220px-Kumar_Mangalam_Birla.jpg",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        },
+        "Cyrus Poonawalla": {
+            "rank": 0,
+            "about": "Chairman of the Poonawalla Group, which includes Serum Institute of India, the world's largest vaccine manufacturer by doses produced.",
+            "bornIn": "Pune, India",
+            "birthDate": "1945",
+            "business": "Poonawalla Group",
+            "education": "Brihan Maharashtra College of Commerce",
+            "networth": "$13.6 B",
+            "industry": "Healthcare",
+            "socials": {
+                "image": "/images/default.jpg",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        },
+        "Uday Kotak": {
+            "rank": 0,
+            "about": "Founder and CEO of Kotak Mahindra Bank, one of India's leading private sector banks.",
+            "bornIn": "Bombay, Bombay State, India",
+            "birthDate": "March 15, 1959",
+            "business": "Kotak Mahindra Bank",
+            "education": "University of Mumbai",
+            "networth": "$21 B",
+            "industry": "Finance",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Uday_Kotak.jpeg/220px-Uday_Kotak.jpeg",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        },
+        "Sunil Mittal": {
+            "rank": 0,
+            "about": "Founder and Chairman of Bharti Enterprises, one of India's largest conglomerates with interests in telecom, retail, and agribusiness.",
+            "bornIn": "Ludhiana, Punjab, India",
+            "birthDate": "October 23, 1957",
+            "business": "Bharti Enterprises",
+            "education": "Panjab University",
+            "networth": "$11 B",
+            "industry": "Telecom",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sunil_Mittal.jpg/220px-Sunil_Mittal.jpg",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        },
+        "Anand Mahindra": {
+            "rank": 0,
+            "about": "Chairman of the Mahindra Group, a multinational conglomerate based in India.",
+            "bornIn": "Mumbai, Maharashtra, India",
+            "birthDate": "May 1, 1955",
+            "business": "Mahindra Group",
+            "education": "Harvard University",
+            "networth": "$1.6 B",
+            "industry": "Diversified",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Anand_Mahindra_%281%29.jpg/220px-Anand_Mahindra_%281%29.jpg",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        },
+        "Nandan Nilekani": {
+            "rank": 0,
+            "about": "Co-founder of Infosys, an Indian multinational corporation that provides business consulting, information technology, and outsourcing services.",
+            "bornIn": "Bangalore, Mysore State, India",
+            "birthDate": "June 2, 1955",
+            "business": "Infosys",
+            "education": "Indian Institute of Technology Bombay",
+            "networth": "$2.1 B",
+            "industry": "Technology",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nandan_M._Nilekani.jpg/220px-Nandan_M._Nilekani.jpg",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        },
+        "Kiran Mazumdar-Shaw": {
+            "rank": 0,
+            "about": "Chairperson and Managing Director of Biocon Limited, a biotechnology company based in Bangalore, India.",
+            "bornIn": "Bangalore, Karnataka, India",
+            "birthDate": "March 23, 1953",
+            "business": "Biocon Limited",
+            "education": "Bangalore University",
+            "networth": "$4.6 B",
+            "industry": "Biotechnology",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kiran_Mazumdar-Shaw_HD2014_crop.jpg/220px-Kiran_Mazumdar-Shaw_HD2014_crop.jpg",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        },
+        "Adi Godrej": {
+            "rank": 0,
+            "about": "Chairman of the Godrej Group, an Indian conglomerate with interests in consumer goods, real estate, appliances, and agriculture.",
+            "bornIn": "Mumbai, Maharashtra, India",
+            "birthDate": "April 3, 1942",
+            "business": "Godrej Group",
+            "education": "Massachusetts Institute of Technology",
+            "networth": "$4.2 B",
+            "industry": "Diversified",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABG_04.jpg/220px-ABG_04.jpg",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        },
+        "Dilip Shanghvi": {
+            "rank": 0,
+            "about": "Founder and Managing Director of Sun Pharmaceuticals, India's largest pharmaceutical company.",
+            "bornIn": "Amreli, Gujarat, India",
+            "birthDate": "October 1, 1955",
+            "business": "Sun Pharmaceuticals",
+            "education": "University of Calcutta",
+            "networth": "$9.5 B",
+            "industry": "Pharmaceuticals",
+            "socials": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dilip_Shanghvi1.jpg/220px-Dilip_Shanghvi1.jpg",
+                "instagram": "",
+                "biographyBook": ""
+            }
+        }
+    },
+    {
+        "Byju Raveendran": {
+            "title": "Founder & CEO",
+            "Startup": "BYJU'S",
+            "age": 41,
+            "networth": "$2.8 billion",
+            "about": "Byju Raveendran is an Indian entrepreneur and the founder of BYJU'S, an educational technology and online tutoring firm.",
+            "social": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Byju_Raveendran_CEO_Byju%27s_%28cropped%29.jpg/220px-Byju_Raveendran_CEO_Byju%27s_%28cropped%29.jpg"
+            }
+        },
+        "Ritesh Agarwal": {
+            "title": "Founder & CEO",
+            "Startup": "OYO Rooms",
+            "age": 28,
+            "networth": "$1.1 billion",
+            "about": "Ritesh Agarwal is an Indian entrepreneur and the founder and CEO of OYO Rooms, one of the largest hospitality chains in the world.",
+            "social": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ritesh_Agrawal_OYO_%28cropped%29.jpg/220px-Ritesh_Agrawal_OYO_%28cropped%29.jpg"
+            }
+        },
+        "Vijay Shekhar Sharma": {
+            "title": "Founder & CEO",
+            "Startup": "Paytm",
+            "age": 43,
+            "networth": "$2.7 billion",
+            "about": "Vijay Shekhar Sharma is an Indian billionaire entrepreneur and the founder of Paytm, India's largest digital payments company.",
+            "social": {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Vijay_Shekhar_Sharma_%282019%29.jpg/220px-Vijay_Shekhar_Sharma_%282019%29.jpg"
+            }
+        },
+        "Kunal Shah": {
+            "title": "Founder & CEO",
+            "Startup": "CRED",
+            "age": 39,
+            "networth": "$2.3 billion",
+            "about": "Kunal Shah is an Indian entrepreneur and the founder and CEO of CRED, a fintech startup focused on credit card payments.",
+            "social": {
+                "image": "/images/default.jpg"
+            }
+        },
+        "Falguni Nayar": {
+            "title": "Founder & CEO",
+            "Startup": "Nykaa",
+            "age": 59,
+            "networth": "$1.2 billion",
+            "about": "Falguni Nayar is an Indian entrepreneur and the founder and CEO of Nykaa, a leading beauty and cosmetics retailer in India.",
+            "social": {
+                "image": "/images/default.jpg"
+            }
+        },
+        "Bhavish Aggarwal ": {
+            "title": "Co-Founder & CEO",
+            "Startup": "Ola",
+            "age": 36,
+            "networth": "$1.2 billion",
+            "about": "Bhavish Aggarwal is an Indian entrepreneur and the co-founder and CEO of Ola, one of India's largest ride-hailing platforms.",
+            "social": {
+                "image": "/images/default.jpg"
+            }
+        },
+        "Deepinder Goyal ": {
+            "title": "Founder & CEO",
+            "Startup": "Zomato",
+            "age": 39,
+            "networth": "$2.1 billion",
+            "about": "Deepinder Goyal is an Indian entrepreneur and the founder and CEO of Zomato, a leading online food delivery and restaurant discovery platform.",
+            "social": {
+                "image": "/images/default.jpg"
+            }
+        },
+        "Harshil Mathur": {
+            "title": "Co-Founder & CEO",
+            "Startup": "Razorpay",
+            "age": 30,
+            "networth": "$1 billion",
+            "about": "Harshil Mathur is an Indian entrepreneur and the co-founder and CEO of Razorpay, a leading fintech company specializing in payment solutions.",
+            "social": {
+                "image": "/images/default.jpg"
+            }
+        },
+        "Ankur Jain ": {
+            "title": "Founder & CEO",
+            "Startup": "Bira 91",
+            "age": 40,
+            "networth": "$1.4 billion",
+            "about": "Ankur Jain is an Indian entrepreneur and the founder and CEO of Bira 91, a popular Indian craft beer brand.",
+            "social": {
+                "image": "/images/default.jpg"
+            }
+        },
+        "Divyank Turakhia": {
+            "title": "Co-Founder",
+            "Startup": "Media.net, Zeta",
+            "age": 39,
+            "networth": "$2.3 billion",
+            "about": "Divyank Turakhia is an Indian entrepreneur and the co-founder of Media.net and Zeta, successful tech companies in the advertising and financial technology sectors.",
+            "social": {
+                "image": "/images/default.jpg"
+            }
+        },
+        "Raghav Chandra": {
+            "title": "Co-Founder & CEO",
+            "Startup": "Urban Company (formerly UrbanClap)",
+            "age": 37,
+            "networth": "$1.1 billion",
+            "about": "Raghav Chandra is an Indian entrepreneur and the co-founder and CEO of Urban Company, a platform for hiring home service professionals.",
+            "social": {
+                "image": "/images/default.jpg"
+            }
+        },
+        "Anupam Mittal ": {
+            "title": "Founder & CEO",
+            "Startup": "Shaadi.com",
+            "age": 48,
+            "networth": "$1.6 billion",
+            "about": "Anupam Mittal is an Indian entrepreneur and the founder and CEO of Shaadi.com, one of the world's largest matrimonial websites.",
+            "social": {
+                "image": "/images/default.jpg"
+            }
+        },
+        "Ashneer Grover": {
+            "title": "Co-Founder & CEO",
+            "Startup": "BharatPe",
+            "age": 40,
+            "networth": "$1.3 billion",
+            "about": "Ashneer Grover is an Indian entrepreneur and the co-founder and CEO of BharatPe, a fintech company specializing in digital payment solutions for merchants.",
+            "social": {
+                "image": "https://imgs.search.brave.com/NgP6Lsdt7cGHvIknKp5zGw8K8KuFvDq5wDdtXywuVOk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlpXVTVObVJo/TkdNdE1tWXhNeTAw/T1dNMkxXRmhaVFF0/WWprMk16WTROREZp/T0dNNVhrRXlYa0Zx/Y0dkZVFYVnlOREF6/TkRrME1UUUAuanBn"
+            }
+        },
+        "Namita Thapar": {
+            "title": "CEO",
+            "Startup": "Emcure Pharmaceuticals",
+            "age": 49,
+            "networth": "$1.5 billion",
+            "about": "Namita Thapar is an Indian business executive and the CEO of Emcure Pharmaceuticals, a global pharmaceutical company based in India.",
+            "social": {
+                "image": "https://imgs.search.brave.com/oBbIW1-cDxz62uKRiBJwHnsJOU3O1Uay44CDQJoNmYM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5qRXdaV0l4/WkRVdE4yUTVPUzAw/WldGa0xUZ3lPV1l0/TTJGbU56bG1ObU0z/WlRNd1hrRXlYa0Zx/Y0dkZVFYVnlOREF6/TkRrME1UUUAuanBn"
+            }
+        },
+        "Rajan Anandan": {
+            "title": "Managing Director",
+            "Startup": "Sequoia Capital India",
+            "age": 53,
+            "networth": "",
+            "about": "Rajan Anandan is an Indian entrepreneur and the Managing Director of Sequoia Capital India, one of the leading venture capital firms in the country.",
+            "social": {
+                "image": "https://imgs.search.brave.com/FRdtU39MDCFg_K5MHeqzhBLWGY1IPEuDFlI6gBIyazY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q1L1JhZ2h1cmFt/X1JhamFuLF9JTUZf/NjlNUzA0MDQyMTA0/OGwuanBn"
+            }
+        },
+        "Vineeta Singh ": {
+            "title": "Co-Founder & CEO",
+            "Startup": "SUGAR Cosmetics",
+            "age": 40,
+            "networth": "",
+            "about": "Vineeta Singh is an Indian entrepreneur and the co-founder and CEO of SUGAR Cosmetics, a beauty brand offering cruelty-free makeup products.",
+            "social": {
+                "image": "https://imgs.search.brave.com/4m0oM-n66vrRasxDvOd7W8cps8m76QPlDHojUpqSQJQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaGVyemluZGFn/aS5pbmZvL2ltYWdl/LzIwMjEvTWF5L3Zp/bmVldGEtc2luZ2gt/MS5qcGc"
+            }
+        }
+    }
+]
